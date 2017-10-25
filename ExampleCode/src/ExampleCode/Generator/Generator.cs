@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Linq.Expressions;
-using PorEjemplo.Helpers;
+using ExampleCode.Helpers;
 using System.Reflection;
 using System.Collections.Generic;
 
-namespace PorEjemplo.Generator {
+namespace ExampleCode.Generator {
 
     public sealed class Generator<TSource> : IGenerator where TSource : new() {
         
