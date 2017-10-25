@@ -1,4 +1,4 @@
-﻿namespace PorEjemplo.Generator {
+﻿namespace ExampleCode.Generator {
     public interface IGenerator {
 
         object Generate();
