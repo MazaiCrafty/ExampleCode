@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace PorEjemplo.Helpers {
+namespace ExampleCode.Helpers {
 
     public static class ExtendedRandom {
 
