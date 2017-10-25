@@ -1,8 +1,8 @@
-﻿using PorEjemplo.Helpers;
+﻿using ExampleCode.Helpers;
 using System;
 using System.Collections.Generic;
 
-namespace PorEjemplo.Generator {
+namespace ExampleCode.Generator {
 
     public sealed class CollectionGenerator<TSource> : IGenerator where TSource : new() {
 
