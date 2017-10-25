@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace PorEjemplo.Extensions {
+namespace ExampleCode.Extensions {
     public static class Extensions {
 
         public static void Print<T>(this IEnumerable<T> collection) {
